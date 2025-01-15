@@ -520,13 +520,6 @@ body:not(.user-is-tabbing) a:focus {
     max-width: 50em;
 }
 
-.download {
-    background-color: #0a0a23;
-    color: #fff;
-    border: none;
-    border-radius: 10px;
-}
-
 @media(max-width: 1240px) {
     .resume__logos {
         overflow-x: scroll;
