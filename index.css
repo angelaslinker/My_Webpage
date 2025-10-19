@@ -611,3 +611,11 @@ body:not(.user-is-tabbing) a:focus {
         padding: var(--gutter-medium) 0;
     }
 }
+
+.work__image {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    border-radius: 8px;
+}
